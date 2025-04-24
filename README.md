@@ -1,43 +1,76 @@
 <h1 align="center">Hi, I'm Kimia 👋</h1>
+
 <p align="center">
- Dual-degree student in Computer Engineering & Global Law  
- Currently studying at the Apple Developer Academy in Naples  
- Exploring Swift, Vision Pro, and accessible app design  
+  <strong>Swift Enthusiast & Apple Developer Academy Student</strong> <br />
+  📍 Based in Naples, Italy <br />
+  💻 Computer Engineering @ Politecnico di Torino
 </p>
 
+---
 
+### 👩‍💻 About Me
 
-<p align="left">
+I am a student at the Apple Developer Academy, where I am developing my skills in Swift app development, innovation, and user-centered design through the Challenge-Based Learning (CBL) approach. This method has strengthened my ability to work effectively in collaborative, multidisciplinary teams, enhancing my problem-solving and communication skills.
+
+I am also pursuing a degree in Computer Engineering at Politecnico di Torino (POLITO), which provides me with a strong foundation in software development and technical expertise. My professional journey includes working as a Junior Frontend Developer, where I designed and developed user-friendly interfaces and contributed to dynamic software projects.
+
+> “The only way to do great work is to love what you do.” — Steve Jobs  
+This philosophy drives me to approach every project with passion and dedication.
+
+---
+
+### 🚀 Current Projects
+
+🌌 **Vision Pro App — Space & Storytelling for Kids**  
+I'm currently developing an immersive Vision Pro app that teaches children about space through interactive storytelling and AR. It combines educational content, environmental awareness, and accessibility to create a playful learning experience.
+
+---
+
+### 🛠️ Tools & Technologies
+
+#### 📱 Mobile & App Dev
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" />
-  </p>
+</p>
 
-<p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="40" alt="Sketch"/>
- </p>
-  <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+#### 🎨 UI/UX & Prototyping
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="40" />
+</p>
+
+#### 💻 Programming & Software
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" />
 </p>
-  <p align="left">
+
+#### 🌐 Web Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="TailwindCSS"/>
-   <img src="https://img.shields.io/badge/AntDesign-%230170FF?style=for-the-badge&logo=antdesign&logoColor=white" height="40" alt="Ant Design"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://img.shields.io/badge/AntDesign-%230170FF?style=for-the-badge&logo=antdesign&logoColor=white" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" />
+</p>
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" alt="WordPress"/>
-   </p>
-    
+---
 
+### 📬 Contact Me
 
+- 📧 Email: [kimiakarbin@gmail.com](mailto:kimiakarbin@gmail.com)  
+- 💼 LinkedIn: [Kimia Karbin](https://www.linkedin.com/in/kimia-karbin-0162b3231/)  
+- 🧑‍💻 GitHub: [@kimiakarbin](https://github.com/kimiakarbin)
 
+---
+
+Thanks for stopping by! Let's build something amazing together. 🚀
 
 
