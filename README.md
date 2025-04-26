@@ -65,21 +65,9 @@ I'm currently developing an immersive Vision Pro app that teaches children about
 
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=kimiakarbin&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimiakarbin&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_private=false" alt="Kimia's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimiakarbin&show_icons=true&theme=radical" alt="Kimia's GitHub stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimiakarbin&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kimiakarbin&theme=radical" alt="Trophies" />
 </p>
 
 
