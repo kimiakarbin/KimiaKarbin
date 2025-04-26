@@ -69,6 +69,13 @@ I'm currently developing an immersive Vision Pro app that teaches children about
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kimiakarbin&show_icons=true&theme=radical" alt="Kimia's GitHub stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimiakarbin&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kimiakarbin&theme=radical" alt="Trophies" />
+</p>
+
 
 ### 📬 Contact Me
 
