@@ -62,11 +62,13 @@ I'm currently developing an immersive Vision Pro app that teaches children about
 </p>
 
 ---
----
 
-## 📊 GitHub Metrics
 
-<img src="https://github.com/kimiakarbin/kimiakarbin/blob/generated/metrics.svg" alt="GitHub Metrics" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimiakarbin&show_icons=true&theme=radical" alt="Kimia's GitHub stats" />
+</p>
 
 ### 📬 Contact Me
 
