@@ -74,7 +74,7 @@ I'm currently developing an immersive Vision Pro app that teaches children about
 
 - 📧 Email: [kimiakarbin@gmail.com](mailto:kimiakarbin@gmail.com)  
 - 💼 LinkedIn: [Kimia Karbin](https://www.linkedin.com/in/kimia-karbin-0162b3231/)
-- 🌐 Website: [www.kimiakarin.com]
+- 🌐 Website: [www.kimiakarbin.com]
 - 🧑‍💻 GitHub: [@kimiakarbin](https://github.com/kimiakarbin)
 
 ---
